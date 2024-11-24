@@ -17,4 +17,15 @@ PURRMART adalah sebuah sistem e-commerce yang dibuat untuk membantu OWCA membeli
 
 ## Setup program
 
-## Cara Menjalankan Program
+## Cara Kompilasi dan Menjalankan Program
+Clone repositori ini dan masuk ke direktori repositori lokal yang telah dibuat, kemudian masuk ke folder bin
+git clone https://github.com/timothymarvine/TUBESALSTRUKDATKEOS\bin
+
+## Kompilasi dan Run Program dengan System Operasi Windows
+Kompilasi manual dengan menuliskan teks dibawah ini pada terminal
+
+Lalu run file executable PURRMART.exe kemudian dapat memasukkan command
+
+## Kompilasi dan Run Program dengan System Operasi Linux
+
+Cara menjalankan program adalah ...
