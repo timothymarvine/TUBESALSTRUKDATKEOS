@@ -12,7 +12,7 @@ PURRMART adalah sebuah sistem e-commerce yang dibuat untuk membantu OWCA membeli
 | 18223089   | Adam Joaquin Girsang   |
 | 18223021   | Timothy Marvine        |
 | 18223019   | A.Nurul Aqeela Amin    |
-| 182230159  | Muhammad Naufal Fathan |
+| 18223059  | Muhammad Naufal Fathan |
 | 18221004   | Khairunnisa Hurun 'Iin |
 
 ## Setup program
