@@ -5,7 +5,7 @@ PURRMART adalah sebuah sistem e-commerce yang dibuat untuk membantu OWCA membeli
 
 ## Anggota Kelompok
 
-** Kelompok 5 Kelas K01 :**
+**Kelompok 5 Kelas K01 :**
 
 | NIM        | Nama                   |
 | ---        | ---                    |
@@ -16,3 +16,5 @@ PURRMART adalah sebuah sistem e-commerce yang dibuat untuk membantu OWCA membeli
 | 18221004   | Khairunnisa Hurun 'Iin |
 
 ## Setup program
+
+## Cara Menjalankan Program
